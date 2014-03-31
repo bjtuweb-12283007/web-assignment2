@@ -1,0 +1,59 @@
+div.logo{
+	margin-top: 25px;
+}
+
+div.Header{
+	position: absolute;
+	top:5px;
+	right: 10px;
+	font-size: 7px;
+}
+
+div.Retrieval-1{
+	margin-top: 7px;
+	margin-left: 460px;
+}
+
+div.searchframe{
+	position: relative;
+	top:20px;
+}
+
+
+div.Retrieval-2{
+	position: relative;
+	top: 15px;
+	font-size: 15px;
+}
+
+div.Retrieval-3{
+	position: relative;
+	top: 320px;
+	font-size: 13px;
+}
+
+div.Retrieval-4{
+	position: relative;
+	top: 340px;
+	font-size: 13px;
+}
+
+div.Footer{
+	margin-top: 350px;
+	font-size: 13px;
+	color: gray;
+}
+
+#exampleInputEmail1{
+	height: 32px;
+	width:400px;
+	position: relative;
+	right: 30px;
+	bottom: 10px
+}
+
+#haha{
+	position: relative;
+	left: 220px;
+	bottom: 43px;
+}
